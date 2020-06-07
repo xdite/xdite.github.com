@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 鄭伊廷
+    tagline: 程序員、教師、作家、創業者
+    avatar: cute.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email:
+    phone:
+    website: blog.xdite.net #do not add http://
+    linkedin:
+    github: xdite
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -32,17 +32,43 @@ sidebar:
 
       - idiom: Spanish
         level: Professional
-        
+
     interests:
-      - item: Climbing
+      - item: 編程
         link:
 
-      - item: Snowboarding
+      - item: 編程化思維
         link:
 
-      - item: Cooking
+      - item: 認知心理學
         link:
 
+      - item: 極速閱讀
+        link:
+
+      - item: 極速寫作
+        link:
+
+      - item: 增長黑客
+        link:
+
+      - item: 互聯網資安
+        link:
+
+      - item: 敏捷開發
+        link:
+
+      - item: 價值投資
+        link:
+
+      - item: 線上課程設計
+        link:
+
+      - item: 線下課程設計
+        link:
+
+      - item: 遊戲化實戰
+        link:
 career-profile:
     title: Career Profile
     summary: |
@@ -66,7 +92,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -79,7 +105,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: Lead Developer
@@ -97,7 +123,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
