@@ -74,19 +74,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-<<<<<<< HEAD
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-=======
+
       14 年程序員、8 年創業者。世界等級黑客松首獎得主。
 
       多本暢銷書作者。
 
->>>>>>> gh-pages
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -99,10 +91,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-<<<<<<< HEAD
-=======
 
->>>>>>> gh-pages
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
@@ -114,10 +103,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-<<<<<<< HEAD
-=======
 
->>>>>>> gh-pages
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -134,10 +120,6 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-<<<<<<< HEAD
-=======
-
->>>>>>> gh-pages
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
