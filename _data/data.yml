@@ -7,20 +7,28 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 鄭伊廷
+    tagline: 程序員、教師、作家、創業者
+    avatar: cute.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+<<<<<<< HEAD
     email: hello@webjeda.com
     phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
+=======
+    email:
+    phone:
+    website: blog.xdite.net #do not add http://
+    linkedin:
+    github: xdite
+>>>>>>> gh-pages
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,24 +44,57 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: 編程
         link:
 
-      - item: Snowboarding
+      - item: 編程化思維
         link:
 
-      - item: Cooking
+      - item: 認知心理學
         link:
 
+      - item: 極速閱讀
+        link:
+
+      - item: 極速寫作
+        link:
+
+      - item: 增長黑客
+        link:
+
+      - item: 互聯網資安
+        link:
+
+      - item: 敏捷開發
+        link:
+
+      - item: 價值投資
+        link:
+
+      - item: 線上課程設計
+        link:
+
+      - item: 線下課程設計
+        link:
+
+      - item: 遊戲化實戰
+        link:
 career-profile:
     title: Career Profile
     summary: |
+<<<<<<< HEAD
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+=======
+      14 年程序員、8 年創業者。世界等級黑客松首獎得主。
+
+      多本暢銷書作者。
+
+>>>>>>> gh-pages
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -66,6 +107,10 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+<<<<<<< HEAD
+=======
+
+>>>>>>> gh-pages
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
@@ -77,6 +122,10 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+<<<<<<< HEAD
+=======
+
+>>>>>>> gh-pages
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -93,6 +142,10 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
+<<<<<<< HEAD
+=======
+
+>>>>>>> gh-pages
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -116,11 +169,10 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: 作品集（電子形式）
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      收錄過去教程、電子書
+
     assignments:
       - title: Velocity
         link: "#hook"
@@ -143,26 +195,34 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 出版作品（紙本）
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Growth Hack 這樣做
+        authors: 台灣 2016 金書獎
+        conference: PCuSER 出版社, 2016
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "閃電式開發"
+        authors:
+        conference: "PCuSER 出版社, 2019"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 打造超人大腦
+        authors:
+        conference: "商周出版社, 2019"
+
+      - title: 遠程工作這樣做
+        authors: （即將出版）
+        conference: "商周出版社, 2020"
+
+      - title: 打造超人思維
+        authors: （即將出版）
+        conference: "商周出版社, 2020"
+
+      - title: 極速寫作法
+        authors: （即將出版）
+        conference: "商周出版社, 2021"
 
 skills:
     title: Skills &amp; Proficiency
