@@ -164,6 +164,10 @@ projects:
         link: "https://github.com/xdite/mind-hack"
         tagline: "令人大開眼界之打破直線思維的腦洞思維技巧"
 
+      - title: 打造超人學習
+        link: "https://github.com/xdite/learn-hack"
+        tagline: "顛覆教育界的上癮式學習法，短時間學會任意技能"
+
       - title: 遠程工作這樣做
         link: "https://github.com/xdite/remote-work"
         tagline: "遠距時代的協作技巧。包含溝通、會議、進度追蹤、精力管理、文件資安等議題"
@@ -176,7 +180,7 @@ projects:
         link: "https://github.com/xdite/internet-security"
         tagline: "互联网金融企业安全与风控的实战手册。如何防范使用者资料被盗、计相对安全的技术架构、拦下恶意使用者针对系统的恶意攻击、團隊內部風控、外部 Audit 指南"
 
-      - title: 極速寫作法(撰寫中)
+      - title: 極速寫作法
         link: "https://github.com/xdite/speed-writing"
         tagline: "如何打破記錄的一天寫出一本書。從此擺脫靈感枯竭。"
 
@@ -199,12 +203,16 @@ publications:
         conference: "商周出版社, 2019"
 
       - title: 遠程工作這樣做
-        authors: （即將出版）
+        authors:
         conference: "商周出版社, 2020"
 
       - title: 打造超人思維
-        authors: （即將出版）
+        authors:
         conference: "商周出版社, 2020"
+
+      - title: 打造超人學習
+        authors: （即將出版）
+        conference: "商周出版社, 2021"
 
       - title: 極速寫作法
         authors: （即將出版）
